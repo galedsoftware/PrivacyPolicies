@@ -3,6 +3,7 @@
 Welcome to the Halachic Units Converter app for Android privacy policy.
 
 We hereby state to the best of our knowledge, that we have not programmed this app to collect any personally identifiable information. All data created by the user is stored on the user device only and can be simply erased by clearing the app's data or uninstalling it.
+<br/>
 This application is free but it contain ads to cover expenses
 
 ### Explanation of permissions requested in the app
